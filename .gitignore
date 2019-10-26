@@ -1,0 +1,13 @@
+# Miscellaneous
+.DS_store
+
+# Directories
+/node_modules
+
+# Logs
+.byebug_history
+
+# Project Files
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
