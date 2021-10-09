@@ -1,5 +1,7 @@
-# Xpile-To Application 
+# Xpile-To Application
 
-### [Main Website](https://anl-xpile.netlify.com/) 
+## [Main Website](https://xpile-to.app/)
 
-More coming soon... 
+## [Netlify](https://anl-xpile.netlify.com/)
+
+More coming soon...
