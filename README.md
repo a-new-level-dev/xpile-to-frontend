@@ -2,5 +2,5 @@
 
 ## [Website](https://xpile-to.app/)
 
-More coming soon...
+More will be coming...
 
